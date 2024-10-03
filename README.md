@@ -1,0 +1,2 @@
+# SpringAI_demo7_working
+ SpringAI_ChatAPI_joke_working_setup_as_demo7
